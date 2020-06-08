@@ -1,0 +1,87 @@
+.head{
+   font-family: 'Merriweather', serif;
+    font-size: 15px;
+    color: black;
+}
+.head  a{
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+    
+}
+.head a:hover{
+   background-color: black;
+   color: white !important;
+   padding: 8px;
+   text-decoration: none;
+}
+.box1, .box3{
+    margin-top: 10px;
+}
+.box2{
+    margin-bottom: 10px;
+}
+/*sign up*/
+
+.btn1{
+    color: black!important;
+    background-color: white!important;
+
+}
+.btn1:hover{
+    background-color: black!important;
+    color: white!important;
+}
+.modal-header{
+    background-color: black!important;
+    color: white!important;
+}
+
+.logo{
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+.logo img{
+    width: 80px;
+    height: 75px;
+}
+
+
+.navbar{
+    background-color: black;
+    font-family: 'Merriweather', serif;
+ 
+    
+}
+.navbar ul li a{
+    padding: 5px;
+}
+.navbar a{
+    color: white;
+    
+  
+}
+.navbar a:hover{
+    color: darkmagenta;
+    background-color: white;
+    border-radius: 5px;
+    padding-left: 5px;
+   padding-right: 5px;
+    
+}
+.fa-bars{
+    font-size: 25px;
+  color:white;  
+ 
+}
+
+.fa-angle-right{
+
+    padding-left: 15px;
+}
+.dp1{
+    margin-left: 155px !important;
+    margin-top: -40px !important;
+}

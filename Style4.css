@@ -1,0 +1,46 @@
+.contact-us{
+    background-color: lightgray;
+    color: black;
+    font-family: 'Merriweather', serif;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    
+    
+}
+.contact-row{
+    padding-left: 50px;
+}
+.contact-us h2{
+    padding-bottom: 15px;
+}
+.contact-us h3{
+    padding-top: 15px;
+    font-size: 25px;
+}
+
+.part{
+ 
+   
+    width: 350px !important;
+}
+.form-group  h5{
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+}
+.btn2{
+    background-color: black;
+    color: white;
+}
+.btn2:hover{
+    height: 40px;
+    width: 95px;
+}
+
+@media only screen and (max-width: 470px){
+    .part{
+ 
+   
+        width: 250px !important;
+    }   
+}

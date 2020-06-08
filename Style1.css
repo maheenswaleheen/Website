@@ -1,0 +1,78 @@
+.about-us{
+    font-family: 'Merriweather', serif;
+    color: black;
+    background-color: lightgray;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.about{
+  margin: 30px !important;
+}
+.about1{
+  
+  padding: 0 50px !important;
+}
+.about1 h2{
+  margin-bottom: 30px !important;
+}
+.about-us p{
+    text-align: justify;
+    font-size: 1em;
+    
+   
+  font-style: italic;
+}
+.image4{
+    width: 400px;
+    height: 500px;
+  
+}
+@media only screen and (max-width: 992px){
+  .about{
+    margin: 30px !important;
+  } 
+  
+.about1{
+  padding: 0 30px !important;
+  margin-bottom: 50px !important;
+}
+}
+@media only screen and (max-width: 786px){
+  .about{
+    margin: 20px !important;
+  } 
+  .image4{
+    width: 380px;
+    height: 450px;
+  
+}
+.about1{
+  
+  margin-bottom: 50px !important;
+}
+}
+@media only screen and (max-width: 576px){
+  .about{
+    margin: 20px !important;
+  } 
+  .image4{
+    width: 300px;
+    height: 400px;
+  
+}
+.about1{
+  
+  margin-bottom: 50px !important;
+}
+}
+@media only screen and (max-width: 480px){
+  .about{
+    margin: 10px !important;
+  } 
+  .image4{
+    width: 200px;
+    height: 300px;
+  
+}
+
+}
